@@ -17,7 +17,35 @@
 // console.log(booleanIsLoggedIn)
 
 
-let num = 23
-let bar = String(num)
-console.log(bar);
-console.log(typeof bar);
+// let num = 23
+// let bar = String(num)
+// console.log(bar);
+// console.log(typeof bar);
+
+
+// ************* Operations **************
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2/2);
+// console.log(2**2);
+
+// let str1 = "Hello"
+// let str2 = " Debo"
+
+// let str3 = str1 + str2
+// console.log(str3);
+
+// console.log("1" + 2 );
+// console.log(1 + "2" );
+// console.log(1 + "2" + "2" );
+// console.log(1 + 2 + "2" );
+// console.log("1" + 2 + 2 );
+
+// console.log();
+
+
+let gamecounter = 100
+gamecounter++;
+console.log(gamecounter);
